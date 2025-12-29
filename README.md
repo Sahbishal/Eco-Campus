@@ -15,3 +15,5 @@ Web-based dashboard to monitor energy consumption and visualize savings.
 
 API Backend
 FastAPI-powered REST API for data ingestion, control, and integration.
+
+🛠 Tech Stack
