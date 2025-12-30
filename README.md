@@ -10,7 +10,7 @@ Uses computer vision to detect classroom occupancy in real time.
 Automated Energy Optimization
 Dynamically controls lighting and HVAC systems based on room usage.
 
-Analytics Dashboard
+Analytics Dashboard 
 Web-based dashboard to monitor energy consumption and visualize savings.
 
 API Backend
