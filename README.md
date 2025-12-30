@@ -17,7 +17,7 @@ API Backend
 FastAPI-powered REST API for data ingestion, control, and integration.
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
  **Backend**: Python, FastAPI, OpenCV, NumPy
  
