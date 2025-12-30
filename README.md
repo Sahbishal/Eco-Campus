@@ -22,3 +22,5 @@ FastAPI-powered REST API for data ingestion, control, and integration.
  **Backend**: Python, FastAPI, OpenCV, NumPy
  
  **Frontend**: React, TypeScript, TailwindCSS, Vite
+ 
+ ## Project Structure
