@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Eco Campus
 
 A smart campus energy management system with real-time occupancy detection and optimization.
