@@ -10,6 +10,7 @@ class EnergyOptimizer:
         Determines the best settings for HVAC and Lighting.
         """
         is_occupied = occupancy_count > 0
+
         
         # Default Logic
         hvac_status = "ON" if is_occupied else "OFF"
